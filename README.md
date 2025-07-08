@@ -8,11 +8,3 @@ https://www.yuque.com/cuggz/interview/wm7x19#JJM0q
 https://jsfiddle.net/
 https://mp.weixin.qq.com/s/hZkLk60nYQrj2ZN80-PbJQ
 
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
-var twoSum = function(nums, target) {
-    
-};
