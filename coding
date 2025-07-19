@@ -1,0 +1,271 @@
+对象比较
+
+红绿灯闪烁
+
+非严格递增数组找最小值
+
+[1. 洗牌算法](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#wGrxT)
+
+[2. promise.retry](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#hucdq)
+
+[3. 颜色随机生成](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#VUIRe)
+
+[4. 手写indexOf](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#aTDCE)
+
+[5. 超时中断的封装promise.race,AbortController](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#JLGf4)
+
+[6. 手写promise.all](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#tV42L)
+
+[7. PromiseAllLimit](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#bhYQC)
+
+[8. 最大前缀和](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#AKHhR)
+
+[9. 手写实现一个queue](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#IKSDU)
+
+[10. 递归和非递归的方式写出一个类似斐波那契数列的帕瓦多数列](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#kVy6E)
+
+[11. 平衡二叉树](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#LE1Qc)
+
+[12. url实现query分割，输出对象](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#AmgOW)
+
+[13. 比较版本号](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#BopcJ)
+
+[14. 下划线中划线改成驼峰](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#UQ36C)
+
+[15. randomInt](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#EijS1)
+
+[16. 手写时间格式化](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#Hn7ie)
+
+[17. 手写promisefy](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#lqsmr)
+
+[18. 手写instanceOf](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#Du9te)
+
+[19. 括号匹配](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#bA4Ed)
+
+[20. 深拷贝](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#nJshh)
+
+[21. setTImeOut模拟setInterval](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#teeKX)
+
+[22. 对字符串进行排序并去重](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#jXTGx)
+
+[23. 手写前序遍历](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#qnLxh)
+
+[24. 如何给一个在闭包里的对象添加新的属性](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#ScAaV)
+
+[25. cookie怎么获取指定key的内容](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#bfKGD)
+
+[26. 使用flex实现容器宽高不定，子元素宽高固定](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#hEoCJ)
+
+[27. 实现一个usePrevious获取上一个state的值](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#qCs4w)
+
+[28. 防抖节流](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#J39BK)
+
+[29. 柯里化](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#CHO86)
+
+[30. 使用node起一个httpServer](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#ppixs)
+
+[31. 实现fetch超时](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#HuibS)
+
+[32. 爬楼梯](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#nNB7m)
+
+[33. flat](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#gbpBB)
+
+[34. aabbc"=>"aabb" "aaabbbce"=>"aaabbb" 去除个数最少的字母](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#OvLB2)
+
+[35. 找数组中出现的最多数](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#WSwEd)
+
+[36. 调度器](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#CBRXP)
+
+[37. n个数组的组合](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#hfNF1)
+
+[38. 手写new](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#O7deF)
+
+[39. 手写订阅发布](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#Ctvnv)
+
+[40. 支持链式调用](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#sWsQV)
+
+[41. 快排、二分、归并排序](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#NSxsi)
+
+[42. lodash的get和set](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#SUdDO)
+
+[43. 数组找数字](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#hpZkd)
+
+[44. 全排列](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#UVNhY)
+
+[45. 打家劫舍](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#FPoJd)
+
+[46. 打家劫舍II](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#xy7M5)
+
+[47. 打家劫舍III](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#dCG7l)
+
+[48. 无重复最长子串](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#nTnrq)
+
+[49. LRU](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#OzVLK)
+
+[50. 双向链表版 LRU](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#IQ9SW)
+
+[51. 链表版两数相加](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#Ygybi)
+
+[52. 链表排序](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#drgVG)
+
+[53. 对象数组转树形结构](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#qLBlz)
+
+[54. 树转对象](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#ERCpN)
+
+[55. 图片懒加载](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#wCvqb)
+
+[56. object.freeze](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#VRmX8)
+
+[57. 手写jsonp](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#GbgDw)
+
+[**58. 数组转树**](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#KOUHx)
+
+[59. 类型判断函数](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#cu7bv)
+
+[60. 最长回文子串](https://www.yuque.com/u29297079/51-644/gakoxf8s47i9g8uc#qMoUy)
+
+[**1. 手写 Object.create**](https://www.yuque.com/cuggz/interview/pkg93q#LOOJA)
+
+[2. 手写 instanceof 方法](https://www.yuque.com/cuggz/interview/pkg93q#fEnoW)
+
+[3. 手写 new 操作符](https://www.yuque.com/cuggz/interview/pkg93q#T1ZsK)
+
+[4. 手写 Promise](https://www.yuque.com/cuggz/interview/pkg93q#qXvhs)
+
+[5. 手写 Promise.then](https://www.yuque.com/cuggz/interview/pkg93q#8BKRR)
+
+[6. 手写 Promise.all](https://www.yuque.com/cuggz/interview/pkg93q#hnWGT)
+
+[7. 手写 Promise.race](https://www.yuque.com/cuggz/interview/pkg93q#2e29m)
+
+[8. 手写防抖函数](https://www.yuque.com/cuggz/interview/pkg93q#haa3F)
+
+[9. 手写节流函数](https://www.yuque.com/cuggz/interview/pkg93q#Rp1A9)
+
+[10. 手写类型判断函数](https://www.yuque.com/cuggz/interview/pkg93q#BL7O4)
+
+[11. 手写 call 函数](https://www.yuque.com/cuggz/interview/pkg93q#ZfG82)
+
+[12. 手写 apply 函数](https://www.yuque.com/cuggz/interview/pkg93q#sqKOw)
+
+[13. 手写 bind 函数](https://www.yuque.com/cuggz/interview/pkg93q#dpPkz)
+
+[14. 函数柯里化的实现](https://www.yuque.com/cuggz/interview/pkg93q#16)
+
+[15. 实现AJAX请求](https://www.yuque.com/cuggz/interview/pkg93q#IY3Cr)
+
+[16. 使用Promise封装AJAX请求](https://www.yuque.com/cuggz/interview/pkg93q#qKn6Y)
+
+[17. 实现浅拷贝](https://www.yuque.com/cuggz/interview/pkg93q#TT8E3)
+
+[（1）Object.assign()](https://www.yuque.com/cuggz/interview/pkg93q#t6hN6)
+
+[（2）扩展运算符](https://www.yuque.com/cuggz/interview/pkg93q#BEgnX)
+
+[（3）数组方法实现数组浅拷贝](https://www.yuque.com/cuggz/interview/pkg93q#c3a4f6c0)
+
+[1）Array.prototype.slice](https://www.yuque.com/cuggz/interview/pkg93q#SRovj)
+
+[2）Array.prototype.concat](https://www.yuque.com/cuggz/interview/pkg93q#6Idl1)
+
+[（4）手写实现浅拷贝](https://www.yuque.com/cuggz/interview/pkg93q#7Xi1l)
+
+[18. 实现深拷贝](https://www.yuque.com/cuggz/interview/pkg93q#sjJzm)
+
+[（1）JSON.stringify()](https://www.yuque.com/cuggz/interview/pkg93q#DpHc0)
+
+[（2）函数库lodash的_.cloneDeep方法](https://www.yuque.com/cuggz/interview/pkg93q#6WmjD)
+
+[（3）手写实现深拷贝函数](https://www.yuque.com/cuggz/interview/pkg93q#sGAsq)
+
+[19. 实现sleep函数（使用Promise封装setTimeout）](https://www.yuque.com/cuggz/interview/pkg93q#RIOBq)
+
+[20. 实现Object.assign](https://www.yuque.com/cuggz/interview/pkg93q#pKjIs)
+
+[1. 实现日期格式化函数](https://www.yuque.com/cuggz/interview/pkg93q#xzbd0)
+
+[2. 交换a,b的值，不能用临时变量](https://www.yuque.com/cuggz/interview/pkg93q#RFo3G)
+
+[3. 实现数组的乱序输出](https://www.yuque.com/cuggz/interview/pkg93q#JVw1G)
+
+[4. 实现数组元素求和](https://www.yuque.com/cuggz/interview/pkg93q#daG39)
+
+[5. 实现数组的扁平化](https://www.yuque.com/cuggz/interview/pkg93q#uvvGJ)
+
+[6. 实现数组去重](https://www.yuque.com/cuggz/interview/pkg93q#o0q3b)
+
+[7. 实现数组的flat方法](https://www.yuque.com/cuggz/interview/pkg93q#nMP9s)
+
+[8. 实现数组的push方法](https://www.yuque.com/cuggz/interview/pkg93q#0j4Wk)
+
+[9. 实现数组的filter方法](https://www.yuque.com/cuggz/interview/pkg93q#fAKGk)
+
+[10. 实现数组的map方法](https://www.yuque.com/cuggz/interview/pkg93q#Z6CXS)
+
+[11. 实现字符串的repeat方法](https://www.yuque.com/cuggz/interview/pkg93q#0n58Z)
+
+[12. 实现字符串翻转](https://www.yuque.com/cuggz/interview/pkg93q#WzfQC)
+
+[13. 将数字每千分位用逗号隔开](https://www.yuque.com/cuggz/interview/pkg93q#le1vb)
+
+[14. 实现非负大整数相加和相乘](https://www.yuque.com/cuggz/interview/pkg93q#2Pijz)
+
+[（1）大数相加](https://www.yuque.com/cuggz/interview/pkg93q#puFVc)
+
+[（2）大数相乘](https://www.yuque.com/cuggz/interview/pkg93q#iINOr)
+
+[13. 实现 add(1)(2)(3)](https://www.yuque.com/cuggz/interview/pkg93q#GxWXw)
+
+[14. 实现类数组转化为数组](https://www.yuque.com/cuggz/interview/pkg93q#44mXg)
+
+[15. 使用 reduce 求和](https://www.yuque.com/cuggz/interview/pkg93q#vbE8F)
+
+[16. 将js对象转化为树形结构](https://www.yuque.com/cuggz/interview/pkg93q#pc09i)
+
+[17. 使用ES5和ES6求函数参数的和](https://www.yuque.com/cuggz/interview/pkg93q#l72h3)
+
+[18. 解析 URL Params 为对象](https://www.yuque.com/cuggz/interview/pkg93q#WMpSk)
+
+[19. 有序二维数组查找目标值](https://www.yuque.com/cuggz/interview/pkg93q#IGE8T)
+
+[20. 二维数组斜向打印](https://www.yuque.com/cuggz/interview/pkg93q#x2X2j)
+
+[21. 找出Element元素的全部Input子元素](https://www.yuque.com/cuggz/interview/pkg93q#SOHF1)
+
+[22. 将手机号中间四位变成*](https://www.yuque.com/cuggz/interview/pkg93q#c2HD2)
+
+[1. 循环打印红黄绿](https://www.yuque.com/cuggz/interview/pkg93q#650XU)
+
+[（1）用 callback 实现](https://www.yuque.com/cuggz/interview/pkg93q#dS0LM)
+
+[（2）用 promise 实现](https://www.yuque.com/cuggz/interview/pkg93q#8aa8dbf9)
+
+[（3）用 async/await 实现](https://www.yuque.com/cuggz/interview/pkg93q#ORaJ9)
+
+[2. 实现每隔一秒打印 1,2,3,4](https://www.yuque.com/cuggz/interview/pkg93q#QjVqK)
+
+[3. 小孩报数问题](https://www.yuque.com/cuggz/interview/pkg93q#pCZh2)
+
+[4. 用Promise实现图片的异步加载](https://www.yuque.com/cuggz/interview/pkg93q#OUtq1)
+
+[5. 实现发布-订阅模式](https://www.yuque.com/cuggz/interview/pkg93q#DjAul)
+
+[6. 查找文章中出现频率最高的单词](https://www.yuque.com/cuggz/interview/pkg93q#21)
+
+[7. 封装异步的fetch，使用async await方式来使用](https://www.yuque.com/cuggz/interview/pkg93q#XL5ZJ)
+
+[8. 实现prototype继承](https://www.yuque.com/cuggz/interview/pkg93q#9FZQx)
+
+[9. 实现双向数据绑定](https://www.yuque.com/cuggz/interview/pkg93q#kzrlR)
+
+[10. 实现简单路由](https://www.yuque.com/cuggz/interview/pkg93q#pFk5L)
+
+[11. 实现斐波那契数列](https://www.yuque.com/cuggz/interview/pkg93q#9hzEk)
+
+[12. 字符串出现的不重复最长长度](https://www.yuque.com/cuggz/interview/pkg93q#1LnCW)
+
+[13. 使用 setTimeout 实现 setInterval](https://www.yuque.com/cuggz/interview/pkg93q#i6xVY)
+
+[14. 实现 jsonp](https://www.yuque.com/cuggz/interview/pkg93q#B2sT2)
+
+[15. 判断对象是否存在循环引用](https://www.yuque.com/cuggz/interview/pkg93q#uVEBp)
