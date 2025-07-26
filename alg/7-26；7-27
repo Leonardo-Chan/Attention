@@ -1,0 +1,59 @@
+两数之和
+
+// 引入 Node.js 的 readline 模块来处理输入
+const readline = require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+// 使用一个数组来存储输入行
+const lines = [];
+rl.on('line', (line) => {
+    lines.push(line);
+});
+
+// 当所有输入都结束后，执行主逻辑
+rl.on('close', () => {
+    // 如果输入是多组的，可以在这里用 for 或 while 循环处理 lines 数组
+    // 这里我们假设只有一组输入
+    if (lines.length < 2) {
+        return;
+    }
+    
+    // 解析输入
+    const target = parseInt(lines[0]);
+    const nums = lines[1].split(' ').map(Number);
+
+    // --- 这里是你的核心算法 ---
+    const twoSum = function(nums, target) {
+        const idx = new Map(); // 创建一个空哈希表
+        for (let j = 0; j < nums.length; j++) { // 枚举 j
+            const x = nums[j];
+            const complement = target - x;
+            
+            // 在左边找 nums[i]，满足 nums[i]+x=target
+            if (idx.has(complement)) { // 找到了
+                return [idx.get(complement), j]; // 返回两个数的下标
+            }
+            
+            idx.set(x, j); // 保存 nums[j] 和 j
+        }
+        // 根据题目要求，如果没有找到可以返回一个空数组或者特定的值
+        return []; 
+    };
+    // -------------------------
+
+    // 调用函数并获取结果
+    const result = twoSum(nums, target);
+
+    // 格式化并打印输出
+    // ACM 模式通常要求输出以空格分隔
+    if (result && result.length === 2) {
+        console.log(result.join(' '));
+    } else {
+        // 如果题目保证一定有解，则不需要这个分支
+        // console.log("No two sum solution");
+    }
+});
